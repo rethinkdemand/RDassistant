@@ -1,17 +1,12 @@
-{
-  "name": "rd-assistant",
+﻿{
+  "name": "rethink-demand-internal",
   "owner": {
     "name": "Rethink Demand"
-  },
-  "metadata": {
-    "description": "Rethink Demand internal plugins",
-    "version": "1.0.0"
   },
   "plugins": [
     {
       "name": "rd-assistant",
-      "source": "./rd-assistant",
-      "description": "Personal meeting and correspondence assistant. Week ahead, daily briefings, day debrief, post-call follow-up and availability sweep, against your own Outlook and Teams. Drafts only, never sends."
+      "source": "./rd-assistant"
     }
   ]
 }
