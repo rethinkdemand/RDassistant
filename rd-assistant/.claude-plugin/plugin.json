@@ -1,0 +1,17 @@
+{
+  "name": "rd-assistant",
+  "version": "1.0.0",
+  "description": "Personal meeting and correspondence assistant for RD. Four skills that read one person's own Outlook and Teams and produce briefings, debriefs and draft emails. Drafts only, never sends.",
+  "author": {
+    "name": "Karl Wakley",
+    "url": "https://rethinkdemand.com"
+  },
+  "keywords": [
+    "meetings",
+    "outlook",
+    "teams",
+    "briefing",
+    "debrief",
+    "follow-up"
+  ]
+}
